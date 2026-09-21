@@ -1,0 +1,1866 @@
+{
+ "Google Ads AI Max setup": {
+  "__aggregate__": {
+   "latency": 3.07,
+   "error": null,
+   "results": [
+    {
+     "t": "Get started with AI Max for Search campaigns | Google Ads API | Google ...",
+     "u": "https://developers.google.com/google-ads/api/docs/campaigns/ai-max-for-search-campaigns/getting-started",
+     "e": "google"
+    },
+    {
+     "t": "Set up AI Max for Search campaigns - Google Ads Help",
+     "u": "https://support.google.com/google-ads/answer/15909989?hl=en-GB",
+     "e": "google"
+    },
+    {
+     "t": "How AI Max for Search campaigns works - Google Ads Help",
+     "u": "https://support.google.com/google-ads/answer/15910187?hl=en",
+     "e": "google cse"
+    },
+    {
+     "t": "How to Set Up AI Max in Google Ads (3-Min Guide + My Honest ...",
+     "u": "https://www.youtube.com/watch?v=mTKiulFzrGQ",
+     "e": "google"
+    },
+    {
+     "t": "Google AI Max: How to Optimize Search Campaigns| Midsummer Agency",
+     "u": "https://midsummer.agency/blog/google-ads-ai-max/",
+     "e": "google"
+    }
+   ],
+   "n": 56,
+   "unresponsive": [
+    [
+     "wikidata",
+     "timeout"
+    ]
+   ]
+  },
+  "duckduckgo": {
+   "latency": 1.07,
+   "error": null,
+   "results": [
+    {
+     "t": "Set up AI Max for Search campaigns - Google Ads Help",
+     "u": "https://support.google.com/google-ads/answer/15909989?hl=en-GB",
+     "e": "duckduckgo"
+    },
+    {
+     "t": "How AI Max for Search campaigns works - Google Ads Help",
+     "u": "https://support.google.com/google-ads/answer/15910187?hl=en",
+     "e": "duckduckgo"
+    },
+    {
+     "t": "Google's Dynamic Search Ads are upgrading to AI Max",
+     "u": "https://blog.google/products/ads-commerce/dsa-upgrade-to-ai-max-2026/",
+     "e": "duckduckgo"
+    },
+    {
+     "t": "How to Enable AI Max in Google Ads: Step-by-Step Setup Guide (October 2025)",
+     "u": "https://www.groas.com/post/how-to-enable-ai-max-in-google-ads-step-by-step-setup-guide-october-2025",
+     "e": "duckduckgo"
+    },
+    {
+     "t": "Get started with AI Max for Search campaigns | Google Ads API | Google ...",
+     "u": "https://developers.google.com/google-ads/api/docs/campaigns/ai-max-for-search-campaigns/getting-started",
+     "e": "duckduckgo"
+    }
+   ],
+   "n": 10,
+   "unresponsive": []
+  },
+  "brave": {
+   "latency": 0.92,
+   "error": null,
+   "results": [
+    {
+     "t": "Set up AI Max for Search campaigns - Google Ads Help",
+     "u": "https://support.google.com/google-ads/answer/15909989?hl=en",
+     "e": "brave"
+    },
+    {
+     "t": "How AI Max for Search campaigns works - Google Ads Help",
+     "u": "https://support.google.com/google-ads/answer/15910187?hl=en",
+     "e": "brave"
+    },
+    {
+     "t": "About AI Max for Search campaigns - Google Ads Help",
+     "u": "https://support.google.com/google-ads/answer/15910366?hl=en",
+     "e": "brave"
+    },
+    {
+     "t": "Google Ads Tutorial: AI Max for Search campaigns",
+     "u": "https://business.google.com/uk/accelerate/resources/articles/ai-max-for-search-campaigns/",
+     "e": "brave"
+    },
+    {
+     "t": "About AI Max experiments - Google Ads Help",
+     "u": "https://support.google.com/google-ads/answer/16450159?hl=en",
+     "e": "brave"
+    }
+   ],
+   "n": 25,
+   "unresponsive": []
+  },
+  "mojeek": {
+   "latency": 3.06,
+   "error": null,
+   "results": [
+    {
+     "t": "Get started with AI Max for Search campaigns | Google Ads API | Google ...",
+     "u": "https://developers.google.com/google-ads/api/docs/campaigns/ai-max-for-search-campaigns/getting-started",
+     "e": "google cse"
+    },
+    {
+     "t": "Set up AI Max for Search campaigns - Google Ads Help",
+     "u": "https://support.google.com/google-ads/answer/15909989?hl=en",
+     "e": "google cse"
+    },
+    {
+     "t": "How to Set Up AI Max in Google Ads (3-Min Guide + My Honest ...",
+     "u": "https://www.youtube.com/watch?v=mTKiulFzrGQ",
+     "e": "google cse"
+    },
+    {
+     "t": "Google AI Max: How to Optimize Search Campaigns| Midsummer Agency",
+     "u": "https://midsummer.agency/blog/google-ads-ai-max/",
+     "e": "google cse"
+    },
+    {
+     "t": "Google Ads AI Max: The 2026 Setup Guide for UK Advertisers",
+     "u": "https://generateleads.online/google-ads-ai-max-setup-guide/",
+     "e": "brave"
+    }
+   ],
+   "n": 46,
+   "unresponsive": [
+    [
+     "bing",
+     "timeout"
+    ],
+    [
+     "wikidata",
+     "Suspended: timeout"
+    ]
+   ]
+  },
+  "google cse": {
+   "latency": 0.77,
+   "error": null,
+   "results": [
+    {
+     "t": "Set up AI Max for Search campaigns - Google Ads Help",
+     "u": "https://support.google.com/google-ads/answer/15909989?hl=en",
+     "e": "google cse"
+    },
+    {
+     "t": "Get started with AI Max for Search campaigns | Google Ads API",
+     "u": "https://developers.google.com/google-ads/api/docs/campaigns/ai-max-for-search-campaigns/getting-started",
+     "e": "google cse"
+    },
+    {
+     "t": "2-Minute Google Ads AI Max Setup Tutorial - YouTube",
+     "u": "https://www.youtube.com/shorts/xiNhRbdG5cA",
+     "e": "google cse"
+    },
+    {
+     "t": "AI Max for Search Campaigns - YouTube",
+     "u": "https://business.google.com/us/accelerate/resources/articles/ai-max-for-search-campaigns/",
+     "e": "google cse"
+    },
+    {
+     "t": "How to Set Up AI Max in Google Ads (3-Min Guide + My Honest ...",
+     "u": "https://www.youtube.com/watch?v=mTKiulFzrGQ",
+     "e": "google cse"
+    }
+   ],
+   "n": 20,
+   "unresponsive": []
+  }
+ },
+ "Google Ads enhanced conversions setup": {
+  "__aggregate__": {
+   "latency": 1.46,
+   "error": null,
+   "results": [
+    {
+     "t": "Set up enhanced conversions for web using the Google tag - Google ...",
+     "u": "https://support.google.com/google-ads/answer/13258081?hl=en",
+     "e": "google cse"
+    },
+    {
+     "t": "Set up enhanced conversions for web using Google Tag Manager - ...",
+     "u": "https://support.google.com/google-ads/answer/13262500?hl=en",
+     "e": "google cse"
+    },
+    {
+     "t": "About enhanced conversions - Google Ads Help",
+     "u": "https://support.google.com/google-ads/answer/9888656?hl=en",
+     "e": "duckduckgo"
+    },
+    {
+     "t": "Set up enhanced conversions for web using Google Tag Manager",
+     "u": "https://business.google.com/us/accelerate/resources/articles/set-up-enhanced-conversions-for-web-using-google-tag-manager/",
+     "e": "google cse"
+    },
+    {
+     "t": "Set up enhanced conversions for web using Google Tag ...",
+     "u": "https://support.google.com/google-ads/answer/13262500?hl=en-GB",
+     "e": "google"
+    }
+   ],
+   "n": 49,
+   "unresponsive": [
+    [
+     "bing",
+     "Suspended: timeout"
+    ]
+   ]
+  },
+  "duckduckgo": {
+   "latency": 0.68,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ]
+   ]
+  },
+  "brave": {
+   "latency": 1.53,
+   "error": null,
+   "results": [
+    {
+     "t": "Set up enhanced conversions for web using the Google tag - Google ...",
+     "u": "https://support.google.com/google-ads/answer/13258081?hl=en",
+     "e": "brave"
+    },
+    {
+     "t": "Set up enhanced conversions for web using Google Tag Manager - ...",
+     "u": "https://support.google.com/google-ads/answer/13262500?hl=en",
+     "e": "brave"
+    },
+    {
+     "t": "About enhanced conversions - Google Ads Help",
+     "u": "https://support.google.com/google-ads/answer/9888656?hl=en",
+     "e": "brave"
+    },
+    {
+     "t": "How to Set up Enhanced Conversions for Google Ads | Claire Jarrett",
+     "u": "https://www.clairejarrett.com/how-to-set-up-enhanced-conversions-for-google-ads/",
+     "e": "brave"
+    },
+    {
+     "t": "What you need to know about enhanced conversions in Google Ads",
+     "u": "https://usercentrics.com/guides/privacy-led-marketing/enhanced-conversions-google-ads/",
+     "e": "brave"
+    }
+   ],
+   "n": 26,
+   "unresponsive": []
+  },
+  "mojeek": {
+   "latency": 1.68,
+   "error": null,
+   "results": [
+    {
+     "t": "Set up enhanced conversions for web using the Google tag - Google ...",
+     "u": "https://support.google.com/google-ads/answer/13258081?hl=en",
+     "e": "google"
+    },
+    {
+     "t": "GA4 & Google Ads Enhanced Conversions Setup - Stape",
+     "u": "https://stape.io/blog/ga4-and-google-ads-enhanced-conversions-tracking-setup-guide",
+     "e": "google"
+    },
+    {
+     "t": "Set up enhanced conversions for web using Google Tag Manager - ...",
+     "u": "https://support.google.com/google-ads/answer/13262500?hl=en",
+     "e": "brave"
+    },
+    {
+     "t": "Set up enhanced conversions for web using Google Tag ...",
+     "u": "https://support.google.com/google-ads/answer/13262500?hl=en-GB",
+     "e": "google"
+    },
+    {
+     "t": "I've seen hundreds of Enhanced Conversions setups - Reddit",
+     "u": "https://www.reddit.com/r/GoogleTagManager/comments/1ik44tf/ive_seen_hundreds_of_enhanced_conversions_setups/",
+     "e": "google"
+    }
+   ],
+   "n": 44,
+   "unresponsive": [
+    [
+     "bing",
+     "Suspended: timeout"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ]
+   ]
+  },
+  "google cse": {
+   "latency": 0.53,
+   "error": null,
+   "results": [
+    {
+     "t": "Set up enhanced conversions for web using the Google tag",
+     "u": "https://support.google.com/google-ads/answer/13258081?hl=en",
+     "e": "google cse"
+    },
+    {
+     "t": "Set up enhanced conversions for web using Google Tag Manager",
+     "u": "https://support.google.com/google-ads/answer/13262500?hl=en",
+     "e": "google cse"
+    },
+    {
+     "t": "Set up enhanced conversions for web using Google Tag Manager",
+     "u": "https://business.google.com/us/accelerate/resources/articles/set-up-enhanced-conversions-for-web-using-google-tag-manager/",
+     "e": "google cse"
+    },
+    {
+     "t": "I've seen hundreds of Enhanced Conversions setups - Reddit",
+     "u": "https://www.reddit.com/r/GoogleTagManager/comments/1ik44tf/ive_seen_hundreds_of_enhanced_conversions_setups/",
+     "e": "google cse"
+    },
+    {
+     "t": "An introduction to enhanced conversions - Google Business Profile",
+     "u": "https://business.google.com/uk/accelerate/resources/articles/about-enhanced-conversions/",
+     "e": "google cse"
+    }
+   ],
+   "n": 20,
+   "unresponsive": []
+  }
+ },
+ "Google Ads conversion tracking documentation": {
+  "__aggregate__": {
+   "latency": 3.11,
+   "error": null,
+   "results": [
+    {
+     "t": "Conversion management | Google Ads API | Google for Developers",
+     "u": "https://developers.google.com/google-ads/api/docs/conversions/overview",
+     "e": "google cse"
+    },
+    {
+     "t": "Google Ads enhanced conversions: the complete tutorial - Data ...",
+     "u": "https://data-marketing-school.com/en/blog/google-tag-manager/google-ads-conversion-tracking/",
+     "e": "google cse"
+    },
+    {
+     "t": "Getting started | Google Ads API | Google for Developers",
+     "u": "https://developers.google.com/google-ads/api/docs/conversions/getting-started",
+     "e": "google cse"
+    },
+    {
+     "t": "Google Ads Conversion Tracking with Google Tag Manager",
+     "u": "https://www.analyticsmania.com/post/google-ads-conversion-tracking-with-google-tag-manager/",
+     "e": "google cse"
+    },
+    {
+     "t": "Google Ads Conversions: Complete Setup Guide 2026! - Cometly",
+     "u": "https://www.cometly.com/post/google-ads-conversions",
+     "e": "google cse"
+    }
+   ],
+   "n": 52,
+   "unresponsive": [
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "timeout"
+    ]
+   ]
+  },
+  "duckduckgo": {
+   "latency": 0.7,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ]
+   ]
+  },
+  "brave": {
+   "latency": 1.41,
+   "error": null,
+   "results": [
+    {
+     "t": "Conversion management | Google Ads API | Google for Developers",
+     "u": "https://developers.google.com/google-ads/api/docs/conversions/overview",
+     "e": "brave"
+    },
+    {
+     "t": "Getting started | Google Ads API | Google for Developers",
+     "u": "https://developers.google.com/google-ads/api/docs/conversions/getting-started",
+     "e": "brave"
+    },
+    {
+     "t": "Google Ads enhanced conversions: the complete tutorial - Data ...",
+     "u": "https://data-marketing-school.com/en/blog/google-tag-manager/google-ads-conversion-tracking/",
+     "e": "brave"
+    },
+    {
+     "t": "Introduction | Google Ads API | Google for Developers",
+     "u": "https://developers.google.com/adwords/api/docs/guides/conversion-tracking",
+     "e": "brave"
+    },
+    {
+     "t": "Google Ads Conversions: Complete Setup Guide 2026!",
+     "u": "https://www.cometly.com/post/google-ads-conversions",
+     "e": "brave"
+    }
+   ],
+   "n": 26,
+   "unresponsive": []
+  },
+  "mojeek": {
+   "latency": 1.01,
+   "error": null,
+   "results": [
+    {
+     "t": "Conversion management | Google Ads API | Google for Developers",
+     "u": "https://developers.google.com/google-ads/api/docs/conversions/overview",
+     "e": "brave"
+    },
+    {
+     "t": "Google Ads enhanced conversions: the complete tutorial - Data ...",
+     "u": "https://data-marketing-school.com/en/blog/google-tag-manager/google-ads-conversion-tracking/",
+     "e": "brave"
+    },
+    {
+     "t": "Getting started | Google Ads API | Google for Developers",
+     "u": "https://developers.google.com/google-ads/api/docs/conversions/getting-started",
+     "e": "brave"
+    },
+    {
+     "t": "Google Ads Conversion Tracking with Google Tag Manager",
+     "u": "https://www.analyticsmania.com/post/google-ads-conversion-tracking-with-google-tag-manager/",
+     "e": "google cse"
+    },
+    {
+     "t": "Google Ads Conversions: Complete Setup Guide 2026! - Cometly",
+     "u": "https://www.cometly.com/post/google-ads-conversions",
+     "e": "brave"
+    }
+   ],
+   "n": 52,
+   "unresponsive": [
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "Suspended: timeout"
+    ]
+   ]
+  },
+  "google cse": {
+   "latency": 0.66,
+   "error": null,
+   "results": [
+    {
+     "t": "Conversion management | Google Ads API",
+     "u": "https://developers.google.com/google-ads/api/docs/conversions/overview",
+     "e": "google cse"
+    },
+    {
+     "t": "Getting started | Google Ads API",
+     "u": "https://developers.google.com/google-ads/api/docs/conversions/getting-started",
+     "e": "google cse"
+    },
+    {
+     "t": "Overview of Google Ads Conversion Tracking | Stape",
+     "u": "https://stape.io/helpdesk/documentation/overview-of-google-ads-conversion-tracking",
+     "e": "google cse"
+    },
+    {
+     "t": "Google Ads Conversion Tracking: Set Up and Use It (2025) - Shopify",
+     "u": "https://www.shopify.com/blog/google-ads-conversion-tracking",
+     "e": "google cse"
+    },
+    {
+     "t": "Google Ads enhanced conversions: the complete tutorial",
+     "u": "https://data-marketing-school.com/en/blog/google-tag-manager/google-ads-conversion-tracking/",
+     "e": "google cse"
+    }
+   ],
+   "n": 20,
+   "unresponsive": []
+  }
+ },
+ "TikTok Search Ads Campaign setup": {
+  "__aggregate__": {
+   "latency": 0.91,
+   "error": null,
+   "results": [
+    {
+     "t": "How to set up a Search Ads Campaign in TikTok Ads Manager",
+     "u": "https://ads.tiktok.com/resources/help/article/how-to-set-up-a-search-ads-campaign-in-tiktok-ads-manager?lang=en",
+     "e": "google"
+    },
+    {
+     "t": "TikTok",
+     "u": "https://www.tiktok.com/",
+     "e": "bing"
+    },
+    {
+     "t": "New Search Ads Campaign tools and features - TikTok Ads",
+     "u": "https://ads.tiktok.com/business/en-GB/blog/introducing-search-ads-campaign",
+     "e": "google"
+    },
+    {
+     "t": "About Search Ads Campaign | TikTok for Business",
+     "u": "https://ads.tiktok.com/resources/help/article/about-search-ads-campaign",
+     "e": "google"
+    },
+    {
+     "t": "TikTok - Make Your Day",
+     "u": "https://www.tiktok.com/en/",
+     "e": "bing"
+    }
+   ],
+   "n": 34,
+   "unresponsive": [
+    [
+     "brave",
+     "too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "Suspended: timeout"
+    ]
+   ]
+  },
+  "duckduckgo": {
+   "latency": 0.65,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ]
+   ]
+  },
+  "brave": {
+   "latency": 0.01,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "mojeek": {
+   "latency": 3.05,
+   "error": null,
+   "results": [
+    {
+     "t": "How to set up a Search Ads Campaign in TikTok Ads Manager",
+     "u": "https://ads.tiktok.com/resources/help/article/how-to-set-up-a-search-ads-campaign-in-tiktok-ads-manager?lang=en",
+     "e": "google cse"
+    },
+    {
+     "t": "TikTok",
+     "u": "https://www.tiktok.com/",
+     "e": "bing"
+    },
+    {
+     "t": "New Search Ads Campaign tools and features - TikTok Ads",
+     "u": "https://ads.tiktok.com/business/en-GB/blog/introducing-search-ads-campaign",
+     "e": "google"
+    },
+    {
+     "t": "About Search Ads Campaign | TikTok for Business",
+     "u": "https://ads.tiktok.com/resources/help/article/about-search-ads-campaign",
+     "e": "google cse"
+    },
+    {
+     "t": "TikTok - Make Your Day",
+     "u": "https://www.tiktok.com/en/",
+     "e": "bing"
+    }
+   ],
+   "n": 34,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "timeout"
+    ]
+   ]
+  },
+  "google cse": {
+   "latency": 0.84,
+   "error": null,
+   "results": [
+    {
+     "t": "How to set up a Search Ads Campaign in TikTok Ads Manager",
+     "u": "https://ads.tiktok.com/resources/help/article/how-to-set-up-a-search-ads-campaign-in-tiktok-ads-manager?lang=en",
+     "e": "google cse"
+    },
+    {
+     "t": "Search Ads Creative | TikTok for Business",
+     "u": "https://ads.tiktok.com/resources/help/article/search-ads-creative",
+     "e": "google cse"
+    },
+    {
+     "t": "How to Set Up a Campaign | TikTok Ads Manager",
+     "u": "https://ads.tiktok.com/resources/help/article/campaign-set-up?lang=nl-NL",
+     "e": "google cse"
+    },
+    {
+     "t": "\u200eCompose TikTok Search Campaign Ads | Sprinklr Help Center",
+     "u": "https://www.sprinklr.com/help/articles/publish-tiktok-ads/compose-tiktok-search-campaign-ads/67d9340c3daa3c66bc3bbd70",
+     "e": "google cse"
+    },
+    {
+     "t": "TikTok Shop Ads: Formats, setup, and tips (2026) - Printify",
+     "u": "https://printify.com/blog/tiktok-shop-ads/",
+     "e": "google cse"
+    }
+   ],
+   "n": 20,
+   "unresponsive": []
+  }
+ },
+ "TikTok Smart+ documentation": {
+  "__aggregate__": {
+   "latency": 0.75,
+   "error": null,
+   "results": [
+    {
+     "t": "Smart+ Upgraded Experience | TikTok for Business",
+     "u": "https://ads.tiktok.com/resources/help/article/about-updates-to-smart-plus?lang=en",
+     "e": "google cse"
+    },
+    {
+     "t": "About Smart+ Campaigns | TikTok Ads Manager",
+     "u": "https://ads.tiktok.com/resources/help/article/about-smart-plus-campaign",
+     "e": "google cse"
+    },
+    {
+     "t": "About Smart+ Web Campaigns - TikTok Ads Manager",
+     "u": "https://ads.tiktok.com/resources/help/article/about-smart-plus-web-campaigns",
+     "e": "google cse"
+    },
+    {
+     "t": "TikTok",
+     "u": "https://www.tiktok.com/",
+     "e": "bing"
+    },
+    {
+     "t": "TikTok - Make Your Day",
+     "u": "https://www.tiktok.com/en/",
+     "e": "bing"
+    }
+   ],
+   "n": 36,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "Suspended: timeout"
+    ]
+   ]
+  },
+  "duckduckgo": {
+   "latency": 0.34,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ]
+   ]
+  },
+  "brave": {
+   "latency": 0.0,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "mojeek": {
+   "latency": 0.71,
+   "error": null,
+   "results": [
+    {
+     "t": "TikTok",
+     "u": "https://www.tiktok.com/",
+     "e": "bing"
+    },
+    {
+     "t": "About Smart+ Campaigns | TikTok Ads Manager",
+     "u": "https://ads.tiktok.com/resources/help/article/about-smart-plus-campaign",
+     "e": "google cse"
+    },
+    {
+     "t": "TikTok - Make Your Day",
+     "u": "https://www.tiktok.com/en/",
+     "e": "bing"
+    },
+    {
+     "t": "Smart+ Upgraded Experience | TikTok for Business",
+     "u": "https://ads.tiktok.com/resources/help/article/about-updates-to-smart-plus?lang=en",
+     "e": "google cse"
+    },
+    {
+     "t": "Log in - TikTok",
+     "u": "https://m.tiktok.com/login/phone-or-email/email",
+     "e": "bing"
+    }
+   ],
+   "n": 29,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "Suspended: timeout"
+    ]
+   ]
+  },
+  "google cse": {
+   "latency": 0.53,
+   "error": null,
+   "results": [
+    {
+     "t": "About Smart+ Campaigns | TikTok Ads Manager",
+     "u": "https://ads.tiktok.com/resources/help/article/about-smart-plus-campaign",
+     "e": "google cse"
+    },
+    {
+     "t": "About Smart+ Web Campaigns - TikTok Ads Manager",
+     "u": "https://ads.tiktok.com/resources/help/article/about-smart-plus-web-campaigns",
+     "e": "google cse"
+    },
+    {
+     "t": "Smart+ Upgraded Experience | TikTok for Business",
+     "u": "https://ads.tiktok.com/resources/help/article/about-updates-to-smart-plus?lang=en",
+     "e": "google cse"
+    },
+    {
+     "t": "Get Upgraded Smart+ Campaigns | TikTok API for Business",
+     "u": "https://business-api.tiktok.com/portal/docs/get-upgraded-smart-campaigns/v1.3",
+     "e": "google cse"
+    },
+    {
+     "t": "Docs - TikTok API for Business",
+     "u": "https://business-api.tiktok.com/portal/docs?id=1739289524101122",
+     "e": "google cse"
+    }
+   ],
+   "n": 20,
+   "unresponsive": []
+  }
+ },
+ "TikTok Events API documentation": {
+  "__aggregate__": {
+   "latency": 0.83,
+   "error": null,
+   "results": [
+    {
+     "t": "About Events API | TikTok For Business",
+     "u": "https://ads.tiktok.com/resources/help/article/events-api?lang=en",
+     "e": "google cse"
+    },
+    {
+     "t": "TikTok API for Business docs",
+     "u": "https://business-api.tiktok.com/portal/docs",
+     "e": "google cse"
+    },
+    {
+     "t": "developer documentation for Events API - TikTok Business API",
+     "u": "https://business-api.tiktok.com/portal/docs?rid=",
+     "e": "google cse"
+    },
+    {
+     "t": "Get Started with Events API | TikTok Ads Manager",
+     "u": "https://ads.tiktok.com/resources/help/article/getting-started-events-api",
+     "e": "google cse"
+    },
+    {
+     "t": "TikTok",
+     "u": "https://www.tiktok.com/",
+     "e": "bing"
+    }
+   ],
+   "n": 31,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "Suspended: timeout"
+    ]
+   ]
+  },
+  "duckduckgo": {
+   "latency": 0.4,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ]
+   ]
+  },
+  "brave": {
+   "latency": 0.0,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "mojeek": {
+   "latency": 0.8,
+   "error": null,
+   "results": [
+    {
+     "t": "About Events API | TikTok For Business",
+     "u": "https://ads.tiktok.com/resources/help/article/events-api?lang=en",
+     "e": "google"
+    },
+    {
+     "t": "TikTok API for Business docs",
+     "u": "https://business-api.tiktok.com/portal/docs",
+     "e": "google"
+    },
+    {
+     "t": "developer documentation for Events API - TikTok Business API",
+     "u": "https://business-api.tiktok.com/portal/docs?rid=",
+     "e": "google"
+    },
+    {
+     "t": "Get Started with Events API | TikTok Ads Manager",
+     "u": "https://ads.tiktok.com/resources/help/article/getting-started-events-api",
+     "e": "google"
+    },
+    {
+     "t": "TikTok API for Business",
+     "u": "https://business-api.tiktok.com/portal",
+     "e": "google"
+    }
+   ],
+   "n": 32,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "Suspended: timeout"
+    ]
+   ]
+  },
+  "google cse": {
+   "latency": 0.54,
+   "error": null,
+   "results": [
+    {
+     "t": "About Events API | TikTok For Business",
+     "u": "https://ads.tiktok.com/resources/help/article/events-api?lang=en",
+     "e": "google cse"
+    },
+    {
+     "t": "developer documentation for Events API - TikTok Business API",
+     "u": "https://business-api.tiktok.com/portal/docs?rid=",
+     "e": "google cse"
+    },
+    {
+     "t": "Get Started with Events API | TikTok Ads Manager",
+     "u": "https://ads.tiktok.com/resources/help/article/getting-started-events-api",
+     "e": "google cse"
+    },
+    {
+     "t": "TikTok API for Business docs",
+     "u": "https://business-api.tiktok.com/portal/docs",
+     "e": "google cse"
+    },
+    {
+     "t": "Get Instant Page events - TikTok API for Business",
+     "u": "https://business-api.tiktok.com/portal/docs/get-instant-page-events/v1.3",
+     "e": "google cse"
+    }
+   ],
+   "n": 20,
+   "unresponsive": []
+  }
+ },
+ "Pinterest Performance+ setup": {
+  "__aggregate__": {
+   "latency": 1.04,
+   "error": null,
+   "results": [
+    {
+     "t": "Pinterest",
+     "u": "https://www.pinterest.com/",
+     "e": "bing"
+    },
+    {
+     "t": "Pinterest performance plus setup",
+     "u": "https://developer.pinterest.com/docs/work-with-ads/pinterest-performance-plus-setup/",
+     "e": "google cse"
+    },
+    {
+     "t": "Pinterest (pinterest) - Profile | Pinterest",
+     "u": "https://www.pinterest.com/pinterest/",
+     "e": "bing"
+    },
+    {
+     "t": "Pinterest UK (PinterestUK) \u2013 Profile | Pinterest",
+     "u": "https://uk.pinterest.com/pinterestuk/",
+     "e": "bing"
+    },
+    {
+     "t": "About Pinterest | Discover New Ideas and Shop What You Love",
+     "u": "https://about.pinterest.com/",
+     "e": "bing"
+    }
+   ],
+   "n": 30,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "too many requests"
+    ]
+   ]
+  },
+  "duckduckgo": {
+   "latency": 0.63,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ]
+   ]
+  },
+  "brave": {
+   "latency": 0.01,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "mojeek": {
+   "latency": 0.7,
+   "error": null,
+   "results": [
+    {
+     "t": "Introducing Pinterest Performance+ - Pinterest Academy",
+     "u": "https://www.pinterestacademy.com/student/collection/2191853-introducing-pinterest-performance",
+     "e": "google cse"
+    },
+    {
+     "t": "Make Pinterest Performance+ Campaigns Your New Default",
+     "u": "https://business.pinterest.com/blog/pinterest-performance-plus-campaigns/",
+     "e": "google cse"
+    },
+    {
+     "t": "The Pinterest Performance+ Playbook: Strategies for smarter ...",
+     "u": "https://www.impressiondigital.com/blog/pinterest-performance-plus-advertising/",
+     "e": "google cse"
+    },
+    {
+     "t": "Pinterest Performance+ | Pinterest Business help",
+     "u": "https://help.pinterest.com/en/business/article/pinterest-performance-plus",
+     "e": "google cse"
+    },
+    {
+     "t": "Create and Edit Campaigns with Pinterest Performance+",
+     "u": "https://www.pinterestacademy.com/student/path/2191898-create-and-edit-campaigns-with-pinterest-performance",
+     "e": "google cse"
+    }
+   ],
+   "n": 36,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "google cse": {
+   "latency": 0.68,
+   "error": null,
+   "results": [
+    {
+     "t": "Pinterest performance plus setup",
+     "u": "https://developer.pinterest.com/docs/work-with-ads/pinterest-performance-plus-setup/",
+     "e": "google cse"
+    },
+    {
+     "t": "Pinterest Performance+ | Pinterest Business help",
+     "u": "https://help.pinterest.com/en/business/article/pinterest-performance-plus",
+     "e": "google cse"
+    },
+    {
+     "t": "Introducing Pinterest Performance+ - Pinterest Academy",
+     "u": "https://www.pinterestacademy.com/student/collection/2191853-introducing-pinterest-performance",
+     "e": "google cse"
+    },
+    {
+     "t": "Make Pinterest Performance+ Campaigns Your New Default",
+     "u": "https://business.pinterest.com/blog/pinterest-performance-plus-campaigns/",
+     "e": "google cse"
+    },
+    {
+     "t": "Pinterest Performance+ targeting | Pinterest Business help",
+     "u": "https://help.pinterest.com/en/business/article/pinterest-performance-plus-targeting",
+     "e": "google cse"
+    }
+   ],
+   "n": 20,
+   "unresponsive": []
+  }
+ },
+ "Pinterest Conversions API documentation": {
+  "__aggregate__": {
+   "latency": 1.08,
+   "error": null,
+   "results": [
+    {
+     "t": "Track conversion events in the API - Pinterest Developers",
+     "u": "https://developers.pinterest.com/docs/track-conversions/track-conversions-in-the-api/",
+     "e": "google cse"
+    },
+    {
+     "t": "Pinterest API Documentation",
+     "u": "https://developers.pinterest.com/docs/api/v5/introduction/",
+     "e": "google cse"
+    },
+    {
+     "t": "Pinterest",
+     "u": "https://www.pinterest.com/",
+     "e": "bing"
+    },
+    {
+     "t": "The Pinterest Conversions API | Pinterest Business help",
+     "u": "https://help.pinterest.com/en-gb/business/article/the-pinterest-api-for-conversions",
+     "e": "google"
+    },
+    {
+     "t": "Set up Pinterest Conversions API with GTM - TAGGRS docs",
+     "u": "https://taggrs.io/docs/server-side-tracking/pinterest/conversions-api",
+     "e": "google cse"
+    }
+   ],
+   "n": 32,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "duckduckgo": {
+   "latency": 0.57,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ]
+   ]
+  },
+  "brave": {
+   "latency": 0.01,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "mojeek": {
+   "latency": 0.85,
+   "error": null,
+   "results": [
+    {
+     "t": "Track conversion events in the API - Pinterest Developers",
+     "u": "https://developers.pinterest.com/docs/track-conversions/track-conversions-in-the-api/",
+     "e": "google"
+    },
+    {
+     "t": "Pinterest API Documentation",
+     "u": "https://developers.pinterest.com/docs/api/v5/introduction/",
+     "e": "google"
+    },
+    {
+     "t": "Pinterest",
+     "u": "https://www.pinterest.com/",
+     "e": "bing"
+    },
+    {
+     "t": "The Pinterest Conversions API | Pinterest Business help",
+     "u": "https://help.pinterest.com/en-gb/business/article/the-pinterest-api-for-conversions",
+     "e": "google"
+    },
+    {
+     "t": "Pinterest Conversions API - Docs - PostHog",
+     "u": "https://posthog.com/docs/cdp/destinations/segment-actions-pinterest-conversions-api",
+     "e": "google"
+    }
+   ],
+   "n": 32,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "google cse": {
+   "latency": 0.54,
+   "error": null,
+   "results": [
+    {
+     "t": "The Pinterest Conversions API | Pinterest Business help",
+     "u": "https://help.pinterest.com/en/business/article/the-pinterest-api-for-conversions",
+     "e": "google cse"
+    },
+    {
+     "t": "Getting started with the Conversions API | Pinterest Business help",
+     "u": "https://help.pinterest.com/en/business/article/getting-started-with-the-conversions-api",
+     "e": "google cse"
+    },
+    {
+     "t": "Pinterest Conversions API - Docs - PostHog",
+     "u": "https://posthog.com/docs/cdp/destinations/segment-actions-pinterest-conversions-api",
+     "e": "google cse"
+    },
+    {
+     "t": "Pinterest Conversions API - Twilio",
+     "u": "https://www.twilio.com/docs/segment/connections/destinations/catalog/actions-pinterest-conversions-api",
+     "e": "google cse"
+    },
+    {
+     "t": "Overview of Pinterest Conversions API (CAPI) - Stape",
+     "u": "https://stape.io/helpdesk/documentation/overview-of-pinterest-conversions-api",
+     "e": "google cse"
+    }
+   ],
+   "n": 20,
+   "unresponsive": []
+  }
+ },
+ "Pinterest campaign objectives": {
+  "__aggregate__": {
+   "latency": 2.24,
+   "error": null,
+   "results": [
+    {
+     "t": "Pinterest",
+     "u": "https://www.pinterest.com/",
+     "e": "bing"
+    },
+    {
+     "t": "Pinterest (pinterest) - Profile | Pinterest",
+     "u": "https://www.pinterest.com/pinterest/",
+     "e": "bing"
+    },
+    {
+     "t": "Pinterest UK (PinterestUK) \u2013 Profile | Pinterest",
+     "u": "https://uk.pinterest.com/pinterestuk/",
+     "e": "bing"
+    },
+    {
+     "t": "About Pinterest | Discover New Ideas and Shop What You Love",
+     "u": "https://about.pinterest.com/",
+     "e": "bing"
+    },
+    {
+     "t": "Pinterest",
+     "u": "https://www.pinterest.com/login/",
+     "e": "bing"
+    }
+   ],
+   "n": 30,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "duckduckgo": {
+   "latency": 0.57,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ]
+   ]
+  },
+  "brave": {
+   "latency": 0.01,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "mojeek": {
+   "latency": 0.75,
+   "error": null,
+   "results": [
+    {
+     "t": "Select a campaign objective | Pinterest Business help",
+     "u": "https://help.pinterest.com/en/business/article/campaign-objectives",
+     "e": "google cse"
+    },
+    {
+     "t": "Campaign objective | Pinterest Business help",
+     "u": "https://help.pinterest.com/en/business/article/campaign-objective",
+     "e": "google cse"
+    },
+    {
+     "t": "Pinterest Ads: Ad Types, Specs, Strategy & Examples [2026] - Mayple",
+     "u": "https://www.mayple.com/resources/digital-marketing/pinterest-ads",
+     "e": "google cse"
+    },
+    {
+     "t": "Pinterest Ads Are Changing: What You Need to Know",
+     "u": "https://cathyheflin.com/blog/pinterest-ads-are-changing-what-you-need-to-know",
+     "e": "google cse"
+    },
+    {
+     "t": "Choosing the right campaign objective - Pinterest Academy",
+     "u": "https://www.pinterestacademy.com/student/path/1304736-choosing-the-right-campaign-objective",
+     "e": "google cse"
+    }
+   ],
+   "n": 38,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "google cse": {
+   "latency": 0.59,
+   "error": null,
+   "results": [
+    {
+     "t": "Select a campaign objective | Pinterest Business help",
+     "u": "https://help.pinterest.com/en/business/article/campaign-objectives",
+     "e": "google cse"
+    },
+    {
+     "t": "Campaign objective | Pinterest Business help",
+     "u": "https://help.pinterest.com/en/business/article/campaign-objective",
+     "e": "google cse"
+    },
+    {
+     "t": "Choosing the right campaign objective - Pinterest Academy",
+     "u": "https://www.pinterestacademy.com/student/path/1304736-choosing-the-right-campaign-objective",
+     "e": "google cse"
+    },
+    {
+     "t": "Campaign structure | Pinterest Business help",
+     "u": "https://help.pinterest.com/en/business/article/campaign-structure",
+     "e": "google cse"
+    },
+    {
+     "t": "How To Choose The Right Pinterest Ad Campaign For Your Goal",
+     "u": "https://cathyheflin.com/blog/how-to-choose-the-right-pinterest-ad-campaign-for-your-goal",
+     "e": "google cse"
+    }
+   ],
+   "n": 20,
+   "unresponsive": []
+  }
+ },
+ "Meta Advantage+ campaigns": {
+  "__aggregate__": {
+   "latency": 0.68,
+   "error": null,
+   "results": [
+    {
+     "t": "Meta Advantage+: Optimize Facebook & Instagram Ads with AI",
+     "u": "https://www.facebook.com/business/ads/meta-advantage-plus",
+     "e": "google cse"
+    },
+    {
+     "t": "How Meta Advantage+ Campaigns Work: The AI-Powered ... - Medium",
+     "u": "https://medium.com/@tentenco/how-meta-advantage-campaigns-work-the-ai-powered-advertising-system-reshaping-digital-marketing-3bb2a4fb866a",
+     "e": "google cse"
+    },
+    {
+     "t": "Understanding Meta's Advantage+ Sales Campaigns [2026 Guide]",
+     "u": "https://bir.ch/blog/advantage-plus-sales-campaigns-guide",
+     "e": "google cse"
+    },
+    {
+     "t": "About the Advantage+ Campaign Experience | Meta Business Help ...",
+     "u": "https://www.facebook.com/business/help/1292656978738967",
+     "e": "google cse"
+    },
+    {
+     "t": "Optimize your campaign with Meta Advantage+",
+     "u": "https://www.facebookblueprint.com/student/path/253135",
+     "e": "google cse"
+    }
+   ],
+   "n": 35,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "duckduckgo": {
+   "latency": 0.31,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ]
+   ]
+  },
+  "brave": {
+   "latency": 0.01,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "mojeek": {
+   "latency": 0.83,
+   "error": null,
+   "results": [
+    {
+     "t": "Meta Advantage+: Optimize Facebook & Instagram Ads with AI",
+     "u": "https://www.facebook.com/business/ads/meta-advantage-plus",
+     "e": "google"
+    },
+    {
+     "t": "How Meta Advantage+ Campaigns Work: The AI-Powered ... - Medium",
+     "u": "https://medium.com/@tentenco/how-meta-advantage-campaigns-work-the-ai-powered-advertising-system-reshaping-digital-marketing-3bb2a4fb866a",
+     "e": "google"
+    },
+    {
+     "t": "About Meta | Social Technology, VR, AR, and Innovation",
+     "u": "https://www.meta.com/about/",
+     "e": "bing"
+    },
+    {
+     "t": "About Meta Advantage+ | Meta Business Help Center - Facebook",
+     "u": "https://www.facebook.com/business/help/733979527611858",
+     "e": "google"
+    },
+    {
+     "t": "Understanding Meta's Advantage+ Sales Campaigns [2026 Guide]",
+     "u": "https://bir.ch/blog/advantage-plus-sales-campaigns-guide",
+     "e": "google"
+    }
+   ],
+   "n": 35,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "google cse": {
+   "latency": 0.76,
+   "error": null,
+   "results": [
+    {
+     "t": "Meta Advantage+: Optimize Facebook & Instagram Ads with AI",
+     "u": "https://www.facebook.com/business/ads/meta-advantage-plus",
+     "e": "google cse"
+    },
+    {
+     "t": "About the Advantage+ Campaign Experience | Meta Business Help ...",
+     "u": "https://www.facebook.com/business/help/1292656978738967",
+     "e": "google cse"
+    },
+    {
+     "t": "How Meta Advantage+ Campaigns Work: The AI-Powered ... - Medium",
+     "u": "https://medium.com/@tentenco/how-meta-advantage-campaigns-work-the-ai-powered-advertising-system-reshaping-digital-marketing-3bb2a4fb866a",
+     "e": "google cse"
+    },
+    {
+     "t": "Understanding Meta's Advantage+ Sales Campaigns [2026 Guide]",
+     "u": "https://bir.ch/blog/advantage-plus-sales-campaigns-guide",
+     "e": "google cse"
+    },
+    {
+     "t": "Meta Advantage+ leads campaigns - Meta Blueprint",
+     "u": "https://www.facebookblueprint.com/student/path/253182-automate-leads-campaigns-course",
+     "e": "google cse"
+    }
+   ],
+   "n": 20,
+   "unresponsive": []
+  }
+ },
+ "Meta Conversions API documentation": {
+  "__aggregate__": {
+   "latency": 1.08,
+   "error": null,
+   "results": [
+    {
+     "t": "Conversions API - Meta for Developers - Facebook",
+     "u": "https://developers.facebook.com/documentation/ads-commerce/conversions-api",
+     "e": "google"
+    },
+    {
+     "t": "About Conversions API | Meta Business Help Center - Facebook",
+     "u": "https://www.facebook.com/business/help/AboutConversionsAPI",
+     "e": "google"
+    },
+    {
+     "t": "About Meta | Social Technology, VR, AR, and Innovation",
+     "u": "https://www.meta.com/about/",
+     "e": "bing"
+    },
+    {
+     "t": "Meta Conversions API: 2026 guide - DinMo",
+     "u": "https://www.dinmo.com/third-party-cookies/solutions/conversions-api/meta-ads/",
+     "e": "google"
+    },
+    {
+     "t": "All you need to know on Facebook Conversions API - LeadsBridge",
+     "u": "https://leadsbridge.com/blog/facebook-conversions-api/",
+     "e": "google"
+    }
+   ],
+   "n": 31,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "duckduckgo": {
+   "latency": 0.58,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ]
+   ]
+  },
+  "brave": {
+   "latency": 0.01,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "mojeek": {
+   "latency": 0.93,
+   "error": null,
+   "results": [
+    {
+     "t": "Conversions API - Meta for Developers - Facebook",
+     "u": "https://developers.facebook.com/documentation/ads-commerce/conversions-api",
+     "e": "google cse"
+    },
+    {
+     "t": "About Meta | Social Technology, VR, AR, and Innovation",
+     "u": "https://www.meta.com/about/",
+     "e": "bing"
+    },
+    {
+     "t": "Meta for Business (formerly Facebook for Business)",
+     "u": "https://business.facebook.com/",
+     "e": "bing"
+    },
+    {
+     "t": "Facebook Conversions API (Actions) - Twilio",
+     "u": "https://www.twilio.com/docs/segment/connections/destinations/catalog/actions-facebook-conversions-api",
+     "e": "google cse"
+    },
+    {
+     "t": "Meta - Facebook",
+     "u": "https://www.facebook.com/Meta/home/",
+     "e": "bing"
+    }
+   ],
+   "n": 30,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "google cse": {
+   "latency": 0.64,
+   "error": null,
+   "results": [
+    {
+     "t": "Conversions API - Meta for Developers - Facebook",
+     "u": "https://developers.facebook.com/documentation/ads-commerce/conversions-api",
+     "e": "google cse"
+    },
+    {
+     "t": "Using the API - Conversions API - Meta for Developers - Facebook",
+     "u": "https://developers.facebook.com/documentation/ads-commerce/conversions-api/using-the-api",
+     "e": "google cse"
+    },
+    {
+     "t": "Facebook Conversions API (Actions) - Twilio",
+     "u": "https://www.twilio.com/docs/segment/connections/destinations/catalog/actions-facebook-conversions-api",
+     "e": "google cse"
+    },
+    {
+     "t": "Meta Conversions API | Hightouch Docs",
+     "u": "https://hightouch.com/docs/destinations/meta-conversions",
+     "e": "google cse"
+    },
+    {
+     "t": "Get started with the Conversions API | Meta for Developers - Facebook",
+     "u": "https://developers.facebook.com/documentation/ads-commerce/conversions-api/get-started",
+     "e": "google cse"
+    }
+   ],
+   "n": 20,
+   "unresponsive": []
+  }
+ },
+ "Meta campaign objectives documentation": {
+  "__aggregate__": {
+   "latency": 0.85,
+   "error": null,
+   "results": [
+    {
+     "t": "Facebook Ad Campaign Objectives & Goals | Meta for Business",
+     "u": "https://www.facebook.com/business/ads/ad-objectives",
+     "e": "google cse"
+    },
+    {
+     "t": "Choosing Meta Ads Manager Advertising Objectives - Facebook",
+     "u": "https://www.facebook.com/business/help/1438417719786914",
+     "e": "google cse"
+    },
+    {
+     "t": "Meta Ads Campaign Objectives: 6 ODAX Guide 2026",
+     "u": "https://www.mbadv.agency/meta-ads/meta-ads-campaign-objectives",
+     "e": "google cse"
+    },
+    {
+     "t": "Facebook Ad Objectives Guide to Improving Your Ad Campaigns",
+     "u": "https://www.farsiight.com/resources/meta-ad-objectives/",
+     "e": "google cse"
+    },
+    {
+     "t": "[PDF] Meta x DCN - Facebook Ads Manager for beginners",
+     "u": "https://digitalculturenetwork.org.uk/wp-content/uploads/2022/06/Meta-x-DCN-Facebook-Ads-Manager-for-beginners.pdf",
+     "e": "google cse"
+    }
+   ],
+   "n": 33,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "duckduckgo": {
+   "latency": 0.39,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ]
+   ]
+  },
+  "brave": {
+   "latency": 0.0,
+   "error": null,
+   "results": [],
+   "n": 0,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "mojeek": {
+   "latency": 0.64,
+   "error": null,
+   "results": [
+    {
+     "t": "Facebook Ad Campaign Objectives & Goals | Meta for Business",
+     "u": "https://www.facebook.com/business/ads/ad-objectives",
+     "e": "google cse"
+    },
+    {
+     "t": "Choosing Meta Ads Manager Advertising Objectives - Facebook",
+     "u": "https://www.facebook.com/business/help/1438417719786914",
+     "e": "google cse"
+    },
+    {
+     "t": "Meta Ads Campaign Objectives: 6 ODAX Guide 2026",
+     "u": "https://www.mbadv.agency/meta-ads/meta-ads-campaign-objectives",
+     "e": "google cse"
+    },
+    {
+     "t": "Facebook Ad Objectives Guide to Improving Your Ad Campaigns",
+     "u": "https://www.farsiight.com/resources/meta-ad-objectives/",
+     "e": "google cse"
+    },
+    {
+     "t": "[PDF] Meta x DCN - Facebook Ads Manager for beginners",
+     "u": "https://digitalculturenetwork.org.uk/wp-content/uploads/2022/06/Meta-x-DCN-Facebook-Ads-Manager-for-beginners.pdf",
+     "e": "google cse"
+    }
+   ],
+   "n": 33,
+   "unresponsive": [
+    [
+     "brave",
+     "Suspended: too many requests"
+    ],
+    [
+     "duckduckgo",
+     "CAPTCHA"
+    ],
+    [
+     "wikidata",
+     "Suspended: too many requests"
+    ]
+   ]
+  },
+  "google cse": {
+   "latency": 0.56,
+   "error": null,
+   "results": [
+    {
+     "t": "Facebook Ad Campaign Objectives & Goals | Meta for Business",
+     "u": "https://www.facebook.com/business/ads/ad-objectives",
+     "e": "google cse"
+    },
+    {
+     "t": "Choosing Meta Ads Manager Advertising Objectives - Facebook",
+     "u": "https://www.facebook.com/business/help/1438417719786914",
+     "e": "google cse"
+    },
+    {
+     "t": "Meta Ads Campaign Objectives: 6 ODAX Guide 2026",
+     "u": "https://www.mbadv.agency/meta-ads/meta-ads-campaign-objectives",
+     "e": "google cse"
+    },
+    {
+     "t": "Facebook Ad Objectives Guide to Improving Your Ad Campaigns",
+     "u": "https://www.farsiight.com/resources/meta-ad-objectives/",
+     "e": "google cse"
+    },
+    {
+     "t": "Meta Ads (Facebook Ads) Campaign Objectives - Factors.ai",
+     "u": "https://www.factors.ai/guides/meta-ads-101-b2b-saas-facebook-ads-guide/meta-ads-facebook-ad-campaign-objectives",
+     "e": "google cse"
+    }
+   ],
+   "n": 20,
+   "unresponsive": []
+  }
+ }
+}

@@ -1,0 +1,42 @@
+use_default_settings: true
+
+general:
+  debug: false
+  instance_name: "local-searxng"
+
+server:
+  secret_key: "local-searxng-not-secret-20260921"
+  limiter: false
+  image_proxy: false
+  method: "GET"
+  bind_address: "0.0.0.0"
+  port: 8080
+
+search:
+  safe_search: 0
+  autocomplete: ""
+  default_lang: "en"
+  formats:
+    - html
+    - json
+
+ui:
+  default_locale: "en"
+
+engines:
+  - name: google
+    disabled: false
+  - name: bing
+    disabled: true
+  - name: google cse
+    disabled: false
+  - name: mojeek
+    disabled: false
+  - name: brave
+    disabled: false
+  - name: duckduckgo
+    disabled: false
+  - name: wikipedia
+    disabled: true
+  - name: wikidata
+    disabled: true

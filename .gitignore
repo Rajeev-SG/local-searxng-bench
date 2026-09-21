@@ -1,0 +1,5 @@
+# local SearXNG bench artifacts
+*.log
+logs/
+__pycache__/
+*.pyc

@@ -1,0 +1,467 @@
+{
+ "google cse": {
+  "top1": 11,
+  "top5": 12,
+  "empty": 0,
+  "median_latency": 0.61,
+  "max_latency": 0.84,
+  "per_query": [
+   {
+    "q": "Google Ads AI Max setup",
+    "n": 20,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.77
+   },
+   {
+    "q": "Google Ads enhanced conversions setup",
+    "n": 20,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.53
+   },
+   {
+    "q": "Google Ads conversion tracking documentation",
+    "n": 20,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.66
+   },
+   {
+    "q": "TikTok Search Ads Campaign setup",
+    "n": 20,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.84
+   },
+   {
+    "q": "TikTok Smart+ documentation",
+    "n": 20,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.53
+   },
+   {
+    "q": "TikTok Events API documentation",
+    "n": 20,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.54
+   },
+   {
+    "q": "Pinterest Performance+ setup",
+    "n": 20,
+    "top1_official": false,
+    "top5_official": true,
+    "latency": 0.68
+   },
+   {
+    "q": "Pinterest Conversions API documentation",
+    "n": 20,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.54
+   },
+   {
+    "q": "Pinterest campaign objectives",
+    "n": 20,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.59
+   },
+   {
+    "q": "Meta Advantage+ campaigns",
+    "n": 20,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.76
+   },
+   {
+    "q": "Meta Conversions API documentation",
+    "n": 20,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.64
+   },
+   {
+    "q": "Meta campaign objectives documentation",
+    "n": 20,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.56
+   }
+  ]
+ },
+ "mojeek": {
+  "top1": 10,
+  "top5": 12,
+  "empty": 0,
+  "median_latency": 0.84,
+  "max_latency": 3.06,
+  "per_query": [
+   {
+    "q": "Google Ads AI Max setup",
+    "n": 46,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 3.06
+   },
+   {
+    "q": "Google Ads enhanced conversions setup",
+    "n": 44,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 1.68
+   },
+   {
+    "q": "Google Ads conversion tracking documentation",
+    "n": 52,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 1.01
+   },
+   {
+    "q": "TikTok Search Ads Campaign setup",
+    "n": 34,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 3.05
+   },
+   {
+    "q": "TikTok Smart+ documentation",
+    "n": 29,
+    "top1_official": false,
+    "top5_official": true,
+    "latency": 0.71
+   },
+   {
+    "q": "TikTok Events API documentation",
+    "n": 32,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.8
+   },
+   {
+    "q": "Pinterest Performance+ setup",
+    "n": 36,
+    "top1_official": false,
+    "top5_official": true,
+    "latency": 0.7
+   },
+   {
+    "q": "Pinterest Conversions API documentation",
+    "n": 32,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.85
+   },
+   {
+    "q": "Pinterest campaign objectives",
+    "n": 38,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.75
+   },
+   {
+    "q": "Meta Advantage+ campaigns",
+    "n": 35,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.83
+   },
+   {
+    "q": "Meta Conversions API documentation",
+    "n": 30,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.93
+   },
+   {
+    "q": "Meta campaign objectives documentation",
+    "n": 33,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.64
+   }
+  ]
+ },
+ "duckduckgo": {
+  "top1": 1,
+  "top5": 1,
+  "empty": 11,
+  "median_latency": 0.57,
+  "max_latency": 1.07,
+  "per_query": [
+   {
+    "q": "Google Ads AI Max setup",
+    "n": 10,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 1.07
+   },
+   {
+    "q": "Google Ads enhanced conversions setup",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.68
+   },
+   {
+    "q": "Google Ads conversion tracking documentation",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.7
+   },
+   {
+    "q": "TikTok Search Ads Campaign setup",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.65
+   },
+   {
+    "q": "TikTok Smart+ documentation",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.34
+   },
+   {
+    "q": "TikTok Events API documentation",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.4
+   },
+   {
+    "q": "Pinterest Performance+ setup",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.63
+   },
+   {
+    "q": "Pinterest Conversions API documentation",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.57
+   },
+   {
+    "q": "Pinterest campaign objectives",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.57
+   },
+   {
+    "q": "Meta Advantage+ campaigns",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.31
+   },
+   {
+    "q": "Meta Conversions API documentation",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.58
+   },
+   {
+    "q": "Meta campaign objectives documentation",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.39
+   }
+  ]
+ },
+ "brave": {
+  "top1": 3,
+  "top5": 3,
+  "empty": 9,
+  "median_latency": 0.01,
+  "max_latency": 1.53,
+  "per_query": [
+   {
+    "q": "Google Ads AI Max setup",
+    "n": 25,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.92
+   },
+   {
+    "q": "Google Ads enhanced conversions setup",
+    "n": 26,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 1.53
+   },
+   {
+    "q": "Google Ads conversion tracking documentation",
+    "n": 26,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 1.41
+   },
+   {
+    "q": "TikTok Search Ads Campaign setup",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.01
+   },
+   {
+    "q": "TikTok Smart+ documentation",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.0
+   },
+   {
+    "q": "TikTok Events API documentation",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.0
+   },
+   {
+    "q": "Pinterest Performance+ setup",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.01
+   },
+   {
+    "q": "Pinterest Conversions API documentation",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.01
+   },
+   {
+    "q": "Pinterest campaign objectives",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.01
+   },
+   {
+    "q": "Meta Advantage+ campaigns",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.01
+   },
+   {
+    "q": "Meta Conversions API documentation",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.01
+   },
+   {
+    "q": "Meta campaign objectives documentation",
+    "n": 0,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 0.0
+   }
+  ]
+ },
+ "__aggregate__": {
+  "top1": 10,
+  "top5": 10,
+  "empty": 0,
+  "median_latency": 1.06,
+  "max_latency": 3.11,
+  "per_query": [
+   {
+    "q": "Google Ads AI Max setup",
+    "n": 56,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 3.07
+   },
+   {
+    "q": "Google Ads enhanced conversions setup",
+    "n": 49,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 1.46
+   },
+   {
+    "q": "Google Ads conversion tracking documentation",
+    "n": 52,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 3.11
+   },
+   {
+    "q": "TikTok Search Ads Campaign setup",
+    "n": 34,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.91
+   },
+   {
+    "q": "TikTok Smart+ documentation",
+    "n": 36,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.75
+   },
+   {
+    "q": "TikTok Events API documentation",
+    "n": 31,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.83
+   },
+   {
+    "q": "Pinterest Performance+ setup",
+    "n": 30,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 1.04
+   },
+   {
+    "q": "Pinterest Conversions API documentation",
+    "n": 32,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 1.08
+   },
+   {
+    "q": "Pinterest campaign objectives",
+    "n": 30,
+    "top1_official": false,
+    "top5_official": false,
+    "latency": 2.24
+   },
+   {
+    "q": "Meta Advantage+ campaigns",
+    "n": 35,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.68
+   },
+   {
+    "q": "Meta Conversions API documentation",
+    "n": 31,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 1.08
+   },
+   {
+    "q": "Meta campaign objectives documentation",
+    "n": 33,
+    "top1_official": true,
+    "top5_official": true,
+    "latency": 0.85
+   }
+  ]
+ }
+}
