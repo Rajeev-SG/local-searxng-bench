@@ -23,19 +23,37 @@ search:
 ui:
   default_locale: "en"
 
+# Engine set is pinned, not opportunistic. The coding-agent integration calls
+# this instance with engines=google+cse,mojeek, but an agent that omits the
+# parameter must not fall back to a noisy aggregate - so the aggregate *is* the
+# pinned pair. See README.md -> "Integration".
+#
+# Disabled on purpose (benchmarked 2026-09-21, see results/RESULTS.md):
+#   google     0 results from this host (silent empty)
+#   bing       request timeout, and injected site-homepage junk into the top 5
+#   duckduckgo works once, then CAPTCHAs under agent burst
+#   brave      suspended under any burst; the *Brave Search API* MCP is the
+#              rig's escalation path instead, not this engine
+#   wikipedia / wikidata  timeout noise
 engines:
   - name: google
-    disabled: false
+    disabled: true
   - name: bing
     disabled: true
   - name: google cse
     disabled: false
+  # The image ships mojeek as `inactive: true`, which excludes it from the
+  # aggregate AND from /config (so mcp-searxng's engine validation reports it as
+  # unknown). `disabled: false` alone does not override that - `inactive: false`
+  # is required. Without it the aggregate is google cse only, and an explicit
+  # engines=mojeek call still works but the engine set is not what it claims.
   - name: mojeek
     disabled: false
+    inactive: false
   - name: brave
-    disabled: false
+    disabled: true
   - name: duckduckgo
-    disabled: false
+    disabled: true
   - name: wikipedia
     disabled: true
   - name: wikidata

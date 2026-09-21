@@ -10,6 +10,9 @@ current official ad-platform docs, but noticeably weaker and more fragile than a
 paid API (e.g. Brave). Worth wiring in as a free fallback; not worth replacing a
 paid engine yet.
 
+**Status: integrated** — this instance is now the coding-agent rig's default
+local search route, with Brave as the escalation path. See *Integration* below.
+
 ## Instance
 
 - Image: `docker.io/searxng/searxng:latest` (SearXNG 2026.9.21)
@@ -79,6 +82,31 @@ is required and none was supplied.
 If integrating, call the **pinned** engine set
 `engines=google+cse,mojeek` rather than the aggregate — that combination was the
 fastest reliable configuration (~0.65s, 4/4 top-1 on the re-test).
+
+## Integration (2026-09-21)
+
+The recommendation above is implemented: this instance is the default route for
+normal public web search across the coding-agent rig, through the maintained
+OSS MCP [`mcp-searxng`](https://github.com/ihor-sokoliuk/mcp-searxng), with the
+engines pinned to `google cse + mojeek`.
+
+- `config/settings.yml` — the engine set is pinned. Only `google cse` and
+  `mojeek` are enabled for `general` + `web`, so the instance aggregate *is* the
+  pinned pair and an agent that omits `engines=` cannot reach the noisy default.
+  `mojeek` requires `inactive: false`: the image ships it `inactive: true`, and
+  `disabled: false` alone leaves it out of both the aggregate and `/config`
+  (findable only by asking for it explicitly, which is how the original bench
+  measured it).
+- Endpoint `http://localhost:8888` is unchanged; no other service was disturbed
+  (see the port-8080 deviation above).
+- The live config at `~/searxng/config` is a symlink to this checkout's
+  `config/`, so the running container and the tracked file cannot drift.
+- Policy, per-harness config locations and verification:
+  `Rajeev-SG/codex-home` → `docs/local-searxng.md` (issue `codex-home#149`).
+- Brave / premium search is now the **escalation** path, not the default.
+
+Harness-side detail deliberately lives in `codex-home` rather than here, so the
+rig has one search policy instead of one per repository.
 
 ## Repo contents
 
